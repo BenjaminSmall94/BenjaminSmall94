@@ -1,5 +1,7 @@
 ![my great header banner](BenjaminSmall.png)
 
+<p align="center"><a href="https://www.linkedin.com/in/bjgsmall/" target="_blank" rel="noopener noreferrer"><img height="38" src="./linkedin.png"></a>&nbsp;&nbsp;</p>
+
 - 👋 Hi, I’m @BenjaminSmall94
 - 👀 I’m interested in automation, VR, app development, web/server development and support, and creating cutting edge technology
 - 🌱 I’m currently learning software development at Code Fellows
