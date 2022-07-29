@@ -1,3 +1,5 @@
+![my great header banner](BenjaminSmall.png)
+
 - 👋 Hi, I’m @BenjaminSmall94
 - 👀 I’m interested in automation, VR, app development, web/server development and support, and creating cutting edge technology
 - 🌱 I’m currently learning software development at Code Fellows
